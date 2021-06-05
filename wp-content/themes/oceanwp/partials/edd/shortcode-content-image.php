@@ -1,0 +1,3 @@
+<div class="edd_download_image">
+	<a href="/http://naafizrahman.me/about_me/wp-content/themes/oceanwp/partials/edd/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function the_permalink() in /homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/themes/oceanwp/partials/edd/shortcode-content-image.php:2_Stack trace:_#0 {main}_  thrown in <b>/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/themes/oceanwp/partials/edd/shortcode-content-image.php</b> on line <b>2</b><br />"></a>
+</div>

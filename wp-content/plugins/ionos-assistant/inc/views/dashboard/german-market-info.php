@@ -1,0 +1,3 @@
+<div id="assistant-german-market-panel" class="dashboard-column dashboard-column1 welcome-panel assistant-dashboard-panel">
+    <a class="notice-dismiss" href="/http://naafizrahman.me/about_me/wp-content/plugins/ionos-assistant/inc/views/dashboard/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/ionos-assistant/inc/views/dashboard/german-market-info.php:2_Stack trace:_#0 {main}_  thrown in <b>/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/ionos-assistant/inc/views/dashboard/german-market-info.php</b> on line <b>2</b><br />"></a>
+</div>

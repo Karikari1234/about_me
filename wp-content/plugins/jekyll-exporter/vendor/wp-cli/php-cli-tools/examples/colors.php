@@ -1,0 +1,1 @@
+Must run from command line

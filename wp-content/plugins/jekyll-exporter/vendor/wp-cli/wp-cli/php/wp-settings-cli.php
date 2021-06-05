@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/lib/php7.4') in <b>/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/jekyll-exporter/vendor/wp-cli/wp-cli/php/wp-settings-cli.php</b> on line <b>16</b><br>

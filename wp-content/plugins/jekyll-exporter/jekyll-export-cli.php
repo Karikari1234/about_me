@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Cannot redeclare get_file_description() (previously declared in /homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-admin/includes/file.php:79) in <b>/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-admin/includes/file.php</b> on line <b>79</b><br>

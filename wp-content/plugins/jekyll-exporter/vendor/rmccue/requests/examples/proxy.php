@@ -1,0 +1,7 @@
+<br>
+<b>Fatal error</b>:  Uncaught Requests_Exception: cURL error 7: Failed to connect to 127.0.0.1 port 8080: Connection refused in /homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/jekyll-exporter/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/jekyll-exporter/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL-&gt;process_response('', Array)
+#1 /homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/jekyll-exporter/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL-&gt;request('http://httpbin....', Array, NULL, Array)
+#2 /homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/jekyll-exporter/vendor/rmccue/requests/library/Requests.php(231): Requests::request('http://httpbin....', Array, NULL, 'GET', Array)
+#3 /homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/jekyll-exporter in <b>/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/jekyll-exporter/vendor/rmccue/requests/library/Requests/Transport/cURL.php</b> on line <b>422</b><br>

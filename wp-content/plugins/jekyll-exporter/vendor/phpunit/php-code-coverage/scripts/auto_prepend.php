@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  require_once(): Failed opening required 'PHP/CodeCoverage/Autoload.php' (include_path='.:/usr/lib/php7.4') in <b>/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/jekyll-exporter/vendor/phpunit/php-code-coverage/scripts/auto_prepend.php</b> on line <b>2</b><br>

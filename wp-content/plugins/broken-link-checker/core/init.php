@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  This version of Broken Link Checker requires WordPress 3.0 or later! in <b>/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/broken-link-checker/core/init.php</b> on line <b>17</b><br>

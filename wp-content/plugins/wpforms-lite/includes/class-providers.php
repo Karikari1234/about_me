@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  require_once(): Failed opening required 'WPFORMS_PLUGIN_DIRincludes/providers/class-base.php' (include_path='.:/usr/lib/php7.4') in <b>/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/wpforms-lite/includes/class-providers.php</b> on line <b>28</b><br>

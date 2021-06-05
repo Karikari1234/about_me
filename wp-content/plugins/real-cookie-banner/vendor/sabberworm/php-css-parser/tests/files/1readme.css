@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "CrassRoots";
+  src: url("/http://naafizrahman.me/about_me/wp-content/plugins/real-cookie-banner/vendor/sabberworm/php-css-parser/tests/media/cr.ttf")
+}
+	
+html, body {
+	font-size: 1.6em
+}

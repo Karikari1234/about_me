@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  require_once(): Failed opening required '/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/real-cookie-banner/vendor/devowl-wp/real-product-manager-wp-client/vendor/yahnis-elsts/plugin-update-checker/vendor/autoload.php' (include_path='.:/usr/lib/php7.4') in <b>/homepages/0/d787716287/htdocs/clickandbuilds/AhnafTRahman/wp-content/plugins/real-cookie-banner/vendor/devowl-wp/real-product-manager-wp-client/vendor/yahnis-elsts/plugin-update-checker/vendor/scoper-autoload.php</b> on line <b>5</b><br>
